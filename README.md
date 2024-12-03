@@ -1,7 +1,7 @@
 # Projeto de Automacao com Python
 
 Projeto feito em Python usando as bibliotecas Pyautogui e Pandas.
-O objetivo do projeto é automatizar o cadastro e produtos em um site de vendas, usando uma base de dados com os produtos já organizado.
+O objetivo do projeto é automatizar o cadastro de produtos em um site de vendas, usando uma base de dados com os produtos já organizado.
 Código serve para qualquer automação do mesmo gênero.
 Na linha 28 (pyautogui.click(x=653, y=294)) vale ressaltar que caso não funcione no seu PC, basta executar o seguinte código em outro arquivo:
 import pyautogui
